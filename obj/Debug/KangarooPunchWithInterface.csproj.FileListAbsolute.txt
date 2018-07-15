@@ -1,0 +1,11 @@
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\bin\Debug\KangarooPunchWithInterface.exe.config
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\bin\Debug\KangarooPunchWithInterface.exe
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\bin\Debug\KangarooPunchWithInterface.pdb
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.csprojResolveAssemblyReference.cache
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.Properties.Resources.resources
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.csproj.GenerateResource.Cache
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.exe
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.pdb
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\bin\Debug\Newtonsoft.Json.dll
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\bin\Debug\Newtonsoft.Json.xml
+C:\CUSTOM SOFTWARE\KangarooPunchWithInterface\obj\Debug\KangarooPunchWithInterface.KangarooPunchInteface.resources

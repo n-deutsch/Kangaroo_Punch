@@ -1,0 +1,22 @@
+2018-07-15 04:00 PM
+ADA~Cardano~6.96
+AUD~Australian Dollar~1.347157
+BTC~Bitcoin~0.000157141057
+CAD~Canadian Dollar~1.315764
+CHF~Swiss Franc~1.0022
+CNY~Chinese Yuan Renminbi~6.6917
+EOS~EOS~0.1349
+ETH~Ethereum~0.002218
+EUR~Euro~0.855981
+GBP~British Pound~0.755855
+INR~Indian Rupee~68.497272
+JPY~Japanese Yen~112.398
+LTC~Litecoin~0.0127
+MYR~Malaysian Ringgit~4.0515
+NEO~NEO~0.02956
+SGD~Singapore Dollar~1.365355
+TRX~TRON~29.01
+USD~US Dollar~1
+USDT~Tether~1
+XLM~Stellar~4.52
+XRP~XRP~2.23
